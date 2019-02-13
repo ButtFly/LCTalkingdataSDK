@@ -1,0 +1,16 @@
+PODS:
+  - LCTalkingdataSDK (0.1.0)
+
+DEPENDENCIES:
+  - LCTalkingdataSDK (from `../`)
+
+EXTERNAL SOURCES:
+  LCTalkingdataSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCTalkingdataSDK: 07df6f4fb8922ec1951906e6da501be5a67c0fcc
+
+PODFILE CHECKSUM: d5737dd8966bfbc13fe6ae0c9e8fb6127559b754
+
+COCOAPODS: 1.6.0

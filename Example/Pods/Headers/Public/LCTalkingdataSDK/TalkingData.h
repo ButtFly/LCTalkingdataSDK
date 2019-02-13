@@ -1,0 +1,1 @@
+../../../../../LCTalkingdataSDK/Classes/TalkingData.h

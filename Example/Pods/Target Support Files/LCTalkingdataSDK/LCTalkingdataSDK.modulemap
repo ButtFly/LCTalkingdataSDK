@@ -1,0 +1,6 @@
+framework module LCTalkingdataSDK {
+  umbrella header "LCTalkingdataSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
